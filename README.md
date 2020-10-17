@@ -2,7 +2,7 @@
 
 This is a simple Angular 10 example that uses the Angular HttpClient to run queries and mutations on a mock GraphQL Backend.
 
-Run `npm run start` to start the json-graphql-serve and the Angular client.
+Run `npm run start` to start the json-graphql-server and the Angular client.
 
 ## Tools
 
